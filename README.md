@@ -7,11 +7,7 @@ This is an introductory course on «Web Application Security» is teached to stu
 ## Problem Sets
 The following [assignments](assignments.md) should be completed.
 
-## Security Tests
-* [SSL Checklist for Pentesters](http://www.exploresecurity.com/wp-content/uploads/custom/SSL_manual_cheatsheet.html)
-
 ### Getting Started With Burp Suite
-
 1. Download a free version of [Burp Suite](https://portswigger.net/burp/freedownload).
 2. Install Java.
 3. Run `Burp Suite` with the following command:
@@ -29,6 +25,7 @@ The following [assignments](assignments.md) should be completed.
 * [Special Vulnerable Applications](apps.md)
 * [Challenges](challenges.md)
 * [Tools](tools.md)
+* [SSL Checklist for Pentesters](http://www.exploresecurity.com/wp-content/uploads/custom/SSL_manual_cheatsheet.html)
 
 ## Readings
 
