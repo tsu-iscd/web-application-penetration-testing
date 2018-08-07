@@ -29,6 +29,10 @@ The following [assignments](assignments.md) should be completed.
 
 ## Readings
 
+### Common Attacks
+* [Hacking with Unicode](https://speakerdeck.com/mathiasbynens/hacking-with-unicode)
+* [Exploiting the unexploitable with lesser known browser tricks](https://speakerdeck.com/filedescriptor/exploiting-the-unexploitable-with-lesser-known-browser-tricks)
+
 ### Same Origin Policy
 * [Cookie Same Origin Policy](https://crypto.stanford.edu/cs142/lectures/10-cookie-security.pdf)
 * [Hacking cookies in modern web applications and browsers](http://gsec.hitb.org/materials/sg2015/D1%20-%20Dawid%20Czagan%20-%20Hacking%20Cookies%20in%20Modern%20Web%20Applications%20and%20Browsers.pdf)
@@ -43,6 +47,7 @@ The following [assignments](assignments.md) should be completed.
 * [XML Schema, DTD, and Entity Attacks](https://www.vsecurity.com//download/papers/XMLDTDEntityAttacks.pdf)
 * [XSS Polyglots](https://blog.bugcrowd.com/xss-polyglots-the-context-contest)
 * [How To: Command Injections](https://www.hackerone.com/blog/how-to-command-injections)
+* [Backslash Powered Scanning](https://www.youtube.com/watch?list=PLuUtcRxSUZUpv2An-RNhjuZSJ5fjY7ghe&v=EPmjl7q1-n4)
 
 ### RPO
 * [RPO attack](http://www.thespanner.co.uk/2014/03/21/rpo/)
