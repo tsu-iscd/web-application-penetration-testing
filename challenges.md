@@ -1,6 +1,7 @@
 ## Challenges
 
 ### XSS
+* [SiBears XSS Game](http://xss.school.sibears.ru/)
 * [XSS Game](https://xss-game.appspot.com/)
 * [The prompt(1) Challenge](http://prompt.ml)
 * [XSS Challenges](http://xss-quiz.int21h.jp/)
