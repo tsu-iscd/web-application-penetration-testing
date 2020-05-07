@@ -6,4 +6,4 @@
 * [Sibears XSS Game](http://xss.school.sibears.ru/easy/0)
 
 ## Exploitation
-* [BeEF]((https://github.com/beefproject/beef)
+* [BeEF](https://github.com/beefproject/beef)
