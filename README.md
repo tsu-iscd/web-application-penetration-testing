@@ -29,6 +29,11 @@ The following [assignments](assignments.md) should be completed.
 
 ## Readings
 
+### Books
+* [The Tangled Web](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
+* [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com/gp/product/B005LVQA9S/ref=dbs_a_def_rwt_bibl_vppi_i0)
+* [Real-World Bug Hunting: A Field Guide to Web Hacking](https://www.amazon.com/gp/product/B072SQZ2LG/ref=dbs_a_def_rwt_bibl_vppi_i0)
+
 ### Common Attacks
 * [Hacking with Unicode](https://speakerdeck.com/mathiasbynens/hacking-with-unicode)
 * [Exploiting the unexploitable with lesser known browser tricks](https://speakerdeck.com/filedescriptor/exploiting-the-unexploitable-with-lesser-known-browser-tricks)
