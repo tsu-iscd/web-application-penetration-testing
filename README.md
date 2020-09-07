@@ -4,9 +4,6 @@
 
 This is an introductory course on «Web Application Security» is teached to students of the «Computer Security» speciality in [National Research Tomsk State University](http://en.tsu.ru/) on the [Information Security and Cryptography Department](http://isc.tsu.ru).
 
-## Problem Sets
-The following [assignments](assignments.md) should be completed.
-
 ### Getting Started With Burp Suite
 1. Download a free version of [Burp Suite](https://portswigger.net/burp/freedownload).
 2. Install Java.
